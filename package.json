@@ -1,0 +1,22 @@
+{
+  "name": "gotomusic",
+  "version": "1.0.0",
+  "description": "Music publishing service for independant musicians.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bekatru/gotomusic.git"
+  },
+  "author": "Pavan Gaikwad, Dashkevic, Beka Tru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bekatru/gotomusic/issues"
+  },
+  "homepage": "https://github.com/bekatru/gotomusic#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
